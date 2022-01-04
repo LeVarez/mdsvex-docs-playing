@@ -1,0 +1,14 @@
+.ProseMirror {
+    margin: 0.75em ;
+
+    height: 500px;
+    width: 50%;
+    border: solid 1px black;
+    margin-left: 5%;
+    overflow: scroll;
+}
+
+.ProseMirror *{
+    margin-left: 10px;
+    margin-right: 10px;
+}
